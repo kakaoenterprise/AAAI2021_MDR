@@ -2,7 +2,7 @@
 
 Official Code of AAAI 2021 Paper 
 "Multi-level Distance Regularization for Deep Metric Learning", * Yonghyun Kim and * Wonpyo Park.
-* Equal Contribution
+(* Equal Contribution)
 
 ## Dependencies
 
