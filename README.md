@@ -1,6 +1,6 @@
 # Multi-level Distance Regularization for Deep Metric Learning
 
-Official Code of AAAI 2021 paper "Multi-level Distance Regularization for Deep Metric Learning".
+Official Code of AAAI 2021 paper "Multi-level Distance Regularization for Deep Metric Learning", Yonghyun Kim and Wonpyo Park".
 
 ## Dependencies
 
@@ -98,9 +98,11 @@ python run_inshop.py --num-image-per-class 3 --batch 256 --lr 1e-4 --recall 1 10
 ## Citation
 If you use this method or this code in your research, please cite as:
 
+```
 @InProceedings{Kim_2021_AAAI,
   author = {Kim, Yonghyun and Park, Wonpyo},
   title = {Multi-level Distance Regularization for Deep Metric Learning},
   booktitle = {Proceedings of the 35th AAAI Conference on Artificial Intelligence},
   year = {2021}
 }
+```
