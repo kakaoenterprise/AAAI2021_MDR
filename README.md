@@ -94,3 +94,13 @@ python run_inshop.py --num-image-per-class 3 --batch 256 --lr 1e-4 --recall 1 10
 # Triplet+MDR
 python run_inshop.py --num-image-per-class 3 --batch 256 --lr 1e-4 --recall 1 10 20 30 40 --lambda-mdr 0.1 --nu-mdr 0.01
 ```
+
+## Citation
+If you use this method or this code in your research, please cite as:
+
+@InProceedings{Kim_2021_AAAI,
+  author = {Kim, Yonghyun and Park, Wonpyo},
+  title = {Multi-level Distance Regularization for Deep Metric Learning},
+  booktitle = {Proceedings of the 35th AAAI Conference on Artificial Intelligence},
+  year = {2021}
+}
