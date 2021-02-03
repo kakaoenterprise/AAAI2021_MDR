@@ -4,6 +4,8 @@ Official Code of AAAI 2021 Paper
 "Multi-level Distance Regularization for Deep Metric Learning", * Yonghyun Kim and * Wonpyo Park.
 (* Equal Contribution)
 
+![alt tag](introduce.png)
+
 ## Dependencies
 
 You need a `CUDA-enabled GPU` and `python` (>3.6) to run the source code.
