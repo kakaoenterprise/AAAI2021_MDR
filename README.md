@@ -110,3 +110,12 @@ If you use this method or this code in your research, please cite as:
   year = {2021}
 }
 ```
+
+
+## Contact
+
+[Yonghyun Kim](mailto:gkyh0805@gmail.com)
+
+[Wonpyo Park](mailto:wppark.pio@gmail.com)
+
+[Kakao Enterprise/Vision Team](mailto:vision.ai@kakaoenterprise.com)
